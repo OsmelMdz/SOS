@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/inicio_title"
+        />
+    <item
+        android:id="@+id/menu_emergencia"
+        android:icon="@drawable/ic_emergencia"
+        android:title="@string/emergencia_title"
+        />
+    <item
+        android:id="@+id/menu_contactos"
+        android:icon="@drawable/ic_contacto"
+        android:title="@string/contactos_title"
+        />
+    <item
+        android:id="@+id/menu_admin"
+        android:icon="@drawable/ic_admin"
+        android:title="@string/administrador_title"
+        />
+
+</menu>

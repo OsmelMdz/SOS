@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SOS</string>
+    <string name="atenci_n_ciudadana">Atención Ciudadana</string>
+
+    <string name="inicio_title">Inicio</string>
+    <string name="emergencia_title">Auxilio</string>
+    <string name="contactos_title">Contactos</string>
+    <string name="administrador_title">Administrador</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
